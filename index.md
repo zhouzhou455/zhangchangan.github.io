@@ -21,27 +21,15 @@ He has obtained 7 invention patents, 17 utility model patents, participated in t
 - 2020.10 - 2022.06: Director and Chief Engineer, Tunnel and Underground Engineering Design Division, Shandong Transport Planning and Design Institute Group Co., Ltd.
 - 2023.06 - Present: Director and Chief Engineer, Tunnel and Underground Engineering Design Division, Shandong Transport Planning and Design Institute Group Co., Ltd.
 ## Honors and Awards
+1. Awarded two first prizes in the Excellent Highway Design Awards in China.  
 
-  1.Awarded two first prizes in the Excellent Highway Design Awards in China.
+   Mr. Zhang led the design of nearly 30 km of dual-bore eight-lane tunnels and proposed a super-large-span tunnel design concept, which focuses on reducing surrounding rock damage. He invented an excavation method for super-large-span hard rock tunnels, filling gaps in the standards, significantly reducing construction costs, and improving construction efficiency.
+   
+   This method has been widely applied in major projects, including the southeast extension of the Jinan Southeast Second Ring Road, the reconstruction of the Lianhuo Expressway Xiaowu section, and the expansion of the Shimentangshan Tunnel on the South China Expressway in Guangzhou.
 
-Mr. Zhang led the design of nearly 30 km of dual-bore eight-lane tunnels and proposed a super-large-span tunnel design concept based on reducing surrounding rock damage. He invented an excavation method for super-large-span hard rock tunnels, filling gaps in standards, significantly reducing construction costs, and improving construction efficiency. 
+2. Awarded the First Prize for Scientific and Technological Progress by the China Highway Construction Industry Association.
 
-This method has been widely applied in major projects, including the southeast extension of the Second Ring Road in Jinan, the expansion of the Binlai Expressway, the reconstruction of the Lianhuo Expressway Xiaowu section, and the expansion of the Shimentangshan Tunnel in Guangzhou.
-
-He also contributed to the project "Key Technologies and Applications of Constrained Concrete Support for Tunnels in Complex Geological Conditions," which proposed a new support system and developed mechanized construction equipment for prefabricated arch frames. The research won the **first prize of the Science and Technology Progress Award** from the China Highway and Transportation Society. 
-
-Furthermore, he participated in the "Green Construction Technologies for Super-Large-Span Road Tunnels" research, which received the **third prize in the China Transportation Technology Progress Award**.
-
-  2.Won the first prize from the Shandong Civil Engineering Society.
-
-Mr. Zhang led over 20 tunnel disease remediation designs. He also contributed to the research project "Research on Tunnel Disease Diagnosis and Prevention Technology in Limestone Areas," which was the first in the industry to propose new concepts for minimally invasive, detectable, and maintainable tunnel disease treatment. 
-
-He invented a maintainable tunnel drainage system and developed methods to address tunnel construction joint leakage. This project solved long-standing problems with traditional methods, such as significant structural damage and lack of maintenance post-construction.
-
-  3.Received the second prize of the Shandong Engineering Survey and Design Achievement Competition and the third prize from the China Highway and Transportation Society for Science and Technology Progress.
-
-Mr. Zhang led the design of the Heiyu Tunnel expansion, which involved various in-situ reconstruction forms for tunnels. He proposed a joint support and void reinforcement method for in-situ tunnel expansion without damaging surrounding rock, overcoming significant technical challenges.
-
+   He participated in the "Key Technologies of Constrained Concrete Support for Large Cross-Section Tunnels in Complex Geological Conditions" project, proposing a constrained concrete support system for large cross-section tunnels. The research outcomes achieved fast and safe construction for large-span tunnels, winning the First Prize for Scientific and Technological Progress by the China Highway Construction Industry Association.
 
 ## Contact Information
 
