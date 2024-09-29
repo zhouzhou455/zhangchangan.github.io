@@ -10,8 +10,8 @@ Mr. Zhang Changan has completed the survey, design, and consultation of over one
 He has obtained 7 invention patents, 17 utility model patents, participated in the compilation of 4 industry or local standards, published 14 SCI and core journal papers, and co-authored 1 monograph, significantly advancing the industry's development.
 
 ## Education
-- 2001.09 - 2005.07**: Bachelor’s Degree in Civil Engineering, Chang'an University
-- 2005.09 - 2008.07**: Master’s Degree in Geotechnical Engineering, Chang'an University
+- 2001.09 - 2005.07: Bachelor’s Degree in Civil Engineering, Chang'an University
+- 2005.09 - 2008.07: Master’s Degree in Geotechnical Engineering, Chang'an University
 
 ## Professional Experience
 - 2008.07 - 2011.08: Assistant Engineer, Bridge Department, Shandong Province Transport Planning and Design Institute
@@ -20,6 +20,7 @@ He has obtained 7 invention patents, 17 utility model patents, participated in t
 - 2018.05 - 2020.10: Chief Engineer, Tunnel and Underground Engineering Design Division, Shandong Province Transport Planning and Design Institute
 - 2020.10 - 2022.06: Director and Chief Engineer, Tunnel and Underground Engineering Design Division, Shandong Transport Planning and Design Institute Group Co., Ltd.
 - 2023.06 - Present: Director and Chief Engineer, Tunnel and Underground Engineering Design Division, Shandong Transport Planning and Design Institute Group Co., Ltd.
+
 ## Honors and Awards
 1. Awarded two first prizes in the Excellent Highway Design Awards in China.  
 
@@ -33,7 +34,7 @@ He has obtained 7 invention patents, 17 utility model patents, participated in t
 
 ## Contact Information
 
-**Zhang Changan**  
+Zhang Changan  
 Tunnel and Underground Engineering Design Division  
 Shandong Transport Planning and Design Institute Group Co., Ltd.  
 Shandong, China
